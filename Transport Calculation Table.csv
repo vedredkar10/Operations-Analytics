@@ -1,0 +1,321 @@
+From (Warehouse),To (Demand Zone),Distance (km),Vehicle Type,Cost/km,Penalty Factor,Final Transport Cost per Unit (INR)
+Panjim,Mandrem,48,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Pernem (SC),38,Small Truck (Tata Ace/Bolero),13,1.3,642.2
+Panjim,Bicholim,24,Small Truck (Tata Ace/Bolero),13,1.3,405.6
+Panjim,Tivim,52,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Mapusa,17,Small Truck (Tata Ace/Bolero),13,1.3,287.3
+Panjim,Siolim,30,Small Truck (Tata Ace/Bolero),13,1.3,507
+Panjim,Saligao,48,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Calangute,28,Small Truck (Tata Ace/Bolero),13,1.3,473.2
+Panjim,Porvorim,32,Small Truck (Tata Ace/Bolero),13,1.3,540.8
+Panjim,Aldona,20,Small Truck (Tata Ace/Bolero),13,1.3,338
+Panjim,Panaji,20,Small Truck (Tata Ace/Bolero),13,1.3,338
+Panjim,Taleigao,33,Small Truck (Tata Ace/Bolero),13,1.3,557.7
+Panjim,Santa Cruz,45,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,St. Andre,49,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Cumbarjua,33,Small Truck (Tata Ace/Bolero),13,1.3,557.7
+Panjim,Maem,12,Small Truck (Tata Ace/Bolero),13,1.3,202.8
+Panjim,Sanquelim,31,Small Truck (Tata Ace/Bolero),13,1.3,523.9
+Panjim,Poriem,11,Small Truck (Tata Ace/Bolero),13,1.3,185.9
+Panjim,Valpoi,33,Small Truck (Tata Ace/Bolero),13,1.3,557.7
+Panjim,Priol,53,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Ponda,39,Small Truck (Tata Ace/Bolero),13,1.3,659.1
+Panjim,Siroda,47,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Marcaim,11,Small Truck (Tata Ace/Bolero),13,1.3,185.9
+Panjim,Mormugao,30,Small Truck (Tata Ace/Bolero),13,1.3,507
+Panjim,Vasco Da Gama,42,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Dabolim,21,Small Truck (Tata Ace/Bolero),13,1.3,354.9
+Panjim,Cortalim,31,Small Truck (Tata Ace/Bolero),13,1.3,523.9
+Panjim,Nuvem,53,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Curtorim,34,Small Truck (Tata Ace/Bolero),13,1.3,574.6
+Panjim,Fatorda,58,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Margao,36,Small Truck (Tata Ace/Bolero),13,1.3,608.4
+Panjim,Benaulim,51,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Navelim,37,Small Truck (Tata Ace/Bolero),13,1.3,625.3
+Panjim,Cuncolim,25,Small Truck (Tata Ace/Bolero),13,1.3,422.5
+Panjim,Velim,24,Small Truck (Tata Ace/Bolero),13,1.3,405.6
+Panjim,Quepem,56,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Curchorem,53,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Sanvordem,12,Small Truck (Tata Ace/Bolero),13,1.3,202.8
+Panjim,Sanguem,46,Small Truck (Tata Ace/Bolero),13,1.3,99999
+Panjim,Canacona,16,Small Truck (Tata Ace/Bolero),13,1.3,270.4
+Porvorim,Mandrem,30,Small Truck (Tata Ace/Bolero),13,1.2,468
+Porvorim,Pernem (SC),18,Small Truck (Tata Ace/Bolero),13,1.2,280.8
+Porvorim,Bicholim,48,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Tivim,27,Small Truck (Tata Ace/Bolero),13,1.2,421.2
+Porvorim,Mapusa,13,Small Truck (Tata Ace/Bolero),13,1.2,202.8
+Porvorim,Siolim,34,Small Truck (Tata Ace/Bolero),13,1.2,530.4
+Porvorim,Saligao,23,Small Truck (Tata Ace/Bolero),13,1.2,358.8
+Porvorim,Calangute,59,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Porvorim,0,Small Truck (Tata Ace/Bolero),13,1.2,0
+Porvorim,Aldona,18,Small Truck (Tata Ace/Bolero),13,1.2,280.8
+Porvorim,Panaji,35,Small Truck (Tata Ace/Bolero),13,1.2,546
+Porvorim,Taleigao,11,Small Truck (Tata Ace/Bolero),13,1.2,171.6
+Porvorim,Santa Cruz,29,Small Truck (Tata Ace/Bolero),13,1.2,452.4
+Porvorim,St. Andre,37,Small Truck (Tata Ace/Bolero),13,1.2,577.2
+Porvorim,Cumbarjua,56,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Maem,16,Small Truck (Tata Ace/Bolero),13,1.2,249.6
+Porvorim,Sanquelim,53,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Poriem,17,Small Truck (Tata Ace/Bolero),13,1.2,265.2
+Porvorim,Valpoi,56,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Priol,44,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Ponda,23,Small Truck (Tata Ace/Bolero),13,1.2,358.8
+Porvorim,Siroda,26,Small Truck (Tata Ace/Bolero),13,1.2,405.6
+Porvorim,Marcaim,45,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Mormugao,59,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Vasco Da Gama,49,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Dabolim,13,Small Truck (Tata Ace/Bolero),13,1.2,202.8
+Porvorim,Cortalim,11,Small Truck (Tata Ace/Bolero),13,1.2,171.6
+Porvorim,Nuvem,15,Small Truck (Tata Ace/Bolero),13,1.2,234
+Porvorim,Curtorim,51,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Fatorda,13,Small Truck (Tata Ace/Bolero),13,1.2,202.8
+Porvorim,Margao,38,Small Truck (Tata Ace/Bolero),13,1.2,592.8
+Porvorim,Benaulim,27,Small Truck (Tata Ace/Bolero),13,1.2,421.2
+Porvorim,Navelim,35,Small Truck (Tata Ace/Bolero),13,1.2,546
+Porvorim,Cuncolim,53,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Velim,43,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Quepem,19,Small Truck (Tata Ace/Bolero),13,1.2,296.4
+Porvorim,Curchorem,45,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Porvorim,Sanvordem,23,Small Truck (Tata Ace/Bolero),13,1.2,358.8
+Porvorim,Sanguem,40,Small Truck (Tata Ace/Bolero),13,1.2,624
+Porvorim,Canacona,57,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Verna,Mandrem,24,Small Truck (Tata Ace/Bolero),13,1,312
+Verna,Pernem (SC),17,Small Truck (Tata Ace/Bolero),13,1,221
+Verna,Bicholim,23,Small Truck (Tata Ace/Bolero),13,1,299
+Verna,Tivim,32,Small Truck (Tata Ace/Bolero),13,1,416
+Verna,Mapusa,49,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Siolim,30,Small Truck (Tata Ace/Bolero),13,1,390
+Verna,Saligao,25,Small Truck (Tata Ace/Bolero),13,1,325
+Verna,Calangute,54,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Porvorim,27,Small Truck (Tata Ace/Bolero),13,1,351
+Verna,Aldona,56,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Panaji,33,Small Truck (Tata Ace/Bolero),13,1,429
+Verna,Taleigao,35,Small Truck (Tata Ace/Bolero),13,1,455
+Verna,Santa Cruz,34,Small Truck (Tata Ace/Bolero),13,1,442
+Verna,St. Andre,54,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Cumbarjua,50,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Maem,38,Small Truck (Tata Ace/Bolero),13,1,494
+Verna,Sanquelim,24,Small Truck (Tata Ace/Bolero),13,1,312
+Verna,Poriem,54,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Valpoi,10,Small Truck (Tata Ace/Bolero),13,1,130
+Verna,Priol,34,Small Truck (Tata Ace/Bolero),13,1,442
+Verna,Ponda,16,Small Truck (Tata Ace/Bolero),13,1,208
+Verna,Siroda,18,Small Truck (Tata Ace/Bolero),13,1,234
+Verna,Marcaim,33,Small Truck (Tata Ace/Bolero),13,1,429
+Verna,Mormugao,10,Small Truck (Tata Ace/Bolero),13,1,130
+Verna,Vasco Da Gama,53,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Dabolim,17,Small Truck (Tata Ace/Bolero),13,1,221
+Verna,Cortalim,33,Small Truck (Tata Ace/Bolero),13,1,429
+Verna,Nuvem,20,Small Truck (Tata Ace/Bolero),13,1,260
+Verna,Curtorim,26,Small Truck (Tata Ace/Bolero),13,1,338
+Verna,Fatorda,17,Small Truck (Tata Ace/Bolero),13,1,221
+Verna,Margao,44,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Benaulim,44,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Navelim,42,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Cuncolim,14,Small Truck (Tata Ace/Bolero),13,1,182
+Verna,Velim,51,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Quepem,48,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Curchorem,50,Small Truck (Tata Ace/Bolero),13,1,99999
+Verna,Sanvordem,37,Small Truck (Tata Ace/Bolero),13,1,481
+Verna,Sanguem,16,Small Truck (Tata Ace/Bolero),13,1,208
+Verna,Canacona,18,Small Truck (Tata Ace/Bolero),13,1,234
+Goa Velha,Mandrem,17,Small Truck (Tata Ace/Bolero),13,1.4,309.4
+Goa Velha,Pernem (SC),21,Small Truck (Tata Ace/Bolero),13,1.4,382.2
+Goa Velha,Bicholim,43,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Tivim,42,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Mapusa,57,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Siolim,32,Small Truck (Tata Ace/Bolero),13,1.4,582.4
+Goa Velha,Saligao,33,Small Truck (Tata Ace/Bolero),13,1.4,600.6
+Goa Velha,Calangute,46,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Porvorim,44,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Aldona,53,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Panaji,49,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Taleigao,31,Small Truck (Tata Ace/Bolero),13,1.4,564.2
+Goa Velha,Santa Cruz,36,Small Truck (Tata Ace/Bolero),13,1.4,655.2
+Goa Velha,St. Andre,44,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Cumbarjua,10,Small Truck (Tata Ace/Bolero),13,1.4,182
+Goa Velha,Maem,44,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Sanquelim,46,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Poriem,56,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Valpoi,23,Small Truck (Tata Ace/Bolero),13,1.4,418.6
+Goa Velha,Priol,12,Small Truck (Tata Ace/Bolero),13,1.4,218.4
+Goa Velha,Ponda,10,Small Truck (Tata Ace/Bolero),13,1.4,182
+Goa Velha,Siroda,14,Small Truck (Tata Ace/Bolero),13,1.4,254.8
+Goa Velha,Marcaim,35,Small Truck (Tata Ace/Bolero),13,1.4,637
+Goa Velha,Mormugao,23,Small Truck (Tata Ace/Bolero),13,1.4,418.6
+Goa Velha,Vasco Da Gama,48,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Dabolim,36,Small Truck (Tata Ace/Bolero),13,1.4,655.2
+Goa Velha,Cortalim,18,Small Truck (Tata Ace/Bolero),13,1.4,327.6
+Goa Velha,Nuvem,24,Small Truck (Tata Ace/Bolero),13,1.4,436.8
+Goa Velha,Curtorim,24,Small Truck (Tata Ace/Bolero),13,1.4,436.8
+Goa Velha,Fatorda,35,Small Truck (Tata Ace/Bolero),13,1.4,637
+Goa Velha,Margao,51,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Benaulim,22,Small Truck (Tata Ace/Bolero),13,1.4,400.4
+Goa Velha,Navelim,41,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Cuncolim,48,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Velim,58,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Quepem,41,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Curchorem,13,Small Truck (Tata Ace/Bolero),13,1.4,236.6
+Goa Velha,Sanvordem,39,Small Truck (Tata Ace/Bolero),13,1.4,709.8
+Goa Velha,Sanguem,46,Small Truck (Tata Ace/Bolero),13,1.4,99999
+Goa Velha,Canacona,32,Small Truck (Tata Ace/Bolero),13,1.4,582.4
+Vasco,Mandrem,48,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Pernem (SC),54,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Bicholim,24,Small Truck (Tata Ace/Bolero),13,1.1,343.2
+Vasco,Tivim,52,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Mapusa,38,Small Truck (Tata Ace/Bolero),13,1.1,543.4
+Vasco,Siolim,45,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Saligao,22,Small Truck (Tata Ace/Bolero),13,1.1,314.6
+Vasco,Calangute,41,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Porvorim,16,Small Truck (Tata Ace/Bolero),13,1.1,228.8
+Vasco,Aldona,31,Small Truck (Tata Ace/Bolero),13,1.1,443.3
+Vasco,Panaji,37,Small Truck (Tata Ace/Bolero),13,1.1,529.1
+Vasco,Taleigao,11,Small Truck (Tata Ace/Bolero),13,1.1,157.3
+Vasco,Santa Cruz,51,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,St. Andre,54,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Cumbarjua,15,Small Truck (Tata Ace/Bolero),13,1.1,214.5
+Vasco,Maem,37,Small Truck (Tata Ace/Bolero),13,1.1,529.1
+Vasco,Sanquelim,37,Small Truck (Tata Ace/Bolero),13,1.1,529.1
+Vasco,Poriem,53,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Valpoi,53,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Priol,29,Small Truck (Tata Ace/Bolero),13,1.1,414.7
+Vasco,Ponda,39,Small Truck (Tata Ace/Bolero),13,1.1,557.7
+Vasco,Siroda,20,Small Truck (Tata Ace/Bolero),13,1.1,286
+Vasco,Marcaim,37,Small Truck (Tata Ace/Bolero),13,1.1,529.1
+Vasco,Mormugao,34,Small Truck (Tata Ace/Bolero),13,1.1,486.2
+Vasco,Vasco Da Gama,48,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Dabolim,42,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Cortalim,10,Small Truck (Tata Ace/Bolero),13,1.1,143
+Vasco,Nuvem,36,Small Truck (Tata Ace/Bolero),13,1.1,514.8
+Vasco,Curtorim,22,Small Truck (Tata Ace/Bolero),13,1.1,314.6
+Vasco,Fatorda,50,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Margao,12,Small Truck (Tata Ace/Bolero),13,1.1,171.6
+Vasco,Benaulim,48,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Navelim,15,Small Truck (Tata Ace/Bolero),13,1.1,214.5
+Vasco,Cuncolim,17,Small Truck (Tata Ace/Bolero),13,1.1,243.1
+Vasco,Velim,36,Small Truck (Tata Ace/Bolero),13,1.1,514.8
+Vasco,Quepem,18,Small Truck (Tata Ace/Bolero),13,1.1,257.4
+Vasco,Curchorem,46,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Sanvordem,42,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Sanguem,51,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Vasco,Canacona,53,Small Truck (Tata Ace/Bolero),13,1.1,99999
+Ponda,Mandrem,33,Small Truck (Tata Ace/Bolero),13,1,429
+Ponda,Pernem (SC),24,Small Truck (Tata Ace/Bolero),13,1,312
+Ponda,Bicholim,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Tivim,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Mapusa,33,Small Truck (Tata Ace/Bolero),13,1,429
+Ponda,Siolim,50,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Saligao,58,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Calangute,58,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Porvorim,21,Small Truck (Tata Ace/Bolero),13,1,273
+Ponda,Aldona,48,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Panaji,11,Small Truck (Tata Ace/Bolero),13,1,143
+Ponda,Taleigao,12,Small Truck (Tata Ace/Bolero),13,1,156
+Ponda,Santa Cruz,58,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,St. Andre,46,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Cumbarjua,58,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Maem,26,Small Truck (Tata Ace/Bolero),13,1,338
+Ponda,Sanquelim,58,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Poriem,11,Small Truck (Tata Ace/Bolero),13,1,143
+Ponda,Valpoi,11,Small Truck (Tata Ace/Bolero),13,1,143
+Ponda,Priol,37,Small Truck (Tata Ace/Bolero),13,1,481
+Ponda,Ponda,0,Small Truck (Tata Ace/Bolero),13,1,0
+Ponda,Siroda,32,Small Truck (Tata Ace/Bolero),13,1,416
+Ponda,Marcaim,46,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Mormugao,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Vasco Da Gama,42,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Dabolim,10,Small Truck (Tata Ace/Bolero),13,1,130
+Ponda,Cortalim,28,Small Truck (Tata Ace/Bolero),13,1,364
+Ponda,Nuvem,11,Small Truck (Tata Ace/Bolero),13,1,143
+Ponda,Curtorim,53,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Fatorda,35,Small Truck (Tata Ace/Bolero),13,1,455
+Ponda,Margao,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Benaulim,15,Small Truck (Tata Ace/Bolero),13,1,195
+Ponda,Navelim,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Cuncolim,13,Small Truck (Tata Ace/Bolero),13,1,169
+Ponda,Velim,20,Small Truck (Tata Ace/Bolero),13,1,260
+Ponda,Quepem,26,Small Truck (Tata Ace/Bolero),13,1,338
+Ponda,Curchorem,47,Small Truck (Tata Ace/Bolero),13,1,99999
+Ponda,Sanvordem,33,Small Truck (Tata Ace/Bolero),13,1,429
+Ponda,Sanguem,14,Small Truck (Tata Ace/Bolero),13,1,182
+Ponda,Canacona,43,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Mandrem,15,Small Truck (Tata Ace/Bolero),13,1,195
+Margao,Pernem (SC),31,Small Truck (Tata Ace/Bolero),13,1,403
+Margao,Bicholim,20,Small Truck (Tata Ace/Bolero),13,1,260
+Margao,Tivim,57,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Mapusa,25,Small Truck (Tata Ace/Bolero),13,1,325
+Margao,Siolim,42,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Saligao,18,Small Truck (Tata Ace/Bolero),13,1,234
+Margao,Calangute,15,Small Truck (Tata Ace/Bolero),13,1,195
+Margao,Porvorim,25,Small Truck (Tata Ace/Bolero),13,1,325
+Margao,Aldona,38,Small Truck (Tata Ace/Bolero),13,1,494
+Margao,Panaji,12,Small Truck (Tata Ace/Bolero),13,1,156
+Margao,Taleigao,29,Small Truck (Tata Ace/Bolero),13,1,377
+Margao,Santa Cruz,45,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,St. Andre,28,Small Truck (Tata Ace/Bolero),13,1,364
+Margao,Cumbarjua,35,Small Truck (Tata Ace/Bolero),13,1,455
+Margao,Maem,12,Small Truck (Tata Ace/Bolero),13,1,156
+Margao,Sanquelim,28,Small Truck (Tata Ace/Bolero),13,1,364
+Margao,Poriem,29,Small Truck (Tata Ace/Bolero),13,1,377
+Margao,Valpoi,41,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Priol,16,Small Truck (Tata Ace/Bolero),13,1,208
+Margao,Ponda,50,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Siroda,42,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Marcaim,49,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Mormugao,48,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Vasco Da Gama,27,Small Truck (Tata Ace/Bolero),13,1,351
+Margao,Dabolim,49,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Cortalim,10,Small Truck (Tata Ace/Bolero),13,1,130
+Margao,Nuvem,20,Small Truck (Tata Ace/Bolero),13,1,260
+Margao,Curtorim,37,Small Truck (Tata Ace/Bolero),13,1,481
+Margao,Fatorda,34,Small Truck (Tata Ace/Bolero),13,1,442
+Margao,Margao,0,Small Truck (Tata Ace/Bolero),13,1,0
+Margao,Benaulim,59,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Navelim,32,Small Truck (Tata Ace/Bolero),13,1,416
+Margao,Cuncolim,40,Small Truck (Tata Ace/Bolero),13,1,520
+Margao,Velim,39,Small Truck (Tata Ace/Bolero),13,1,507
+Margao,Quepem,51,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Curchorem,44,Small Truck (Tata Ace/Bolero),13,1,99999
+Margao,Sanvordem,16,Small Truck (Tata Ace/Bolero),13,1,208
+Margao,Sanguem,25,Small Truck (Tata Ace/Bolero),13,1,325
+Margao,Canacona,35,Small Truck (Tata Ace/Bolero),13,1,455
+Mapusa,Mandrem,57,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Pernem (SC),58,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Bicholim,11,Small Truck (Tata Ace/Bolero),13,1.2,171.6
+Mapusa,Tivim,10,Small Truck (Tata Ace/Bolero),13,1.2,156
+Mapusa,Mapusa,0,Small Truck (Tata Ace/Bolero),13,1.2,0
+Mapusa,Siolim,57,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Saligao,21,Small Truck (Tata Ace/Bolero),13,1.2,327.6
+Mapusa,Calangute,14,Small Truck (Tata Ace/Bolero),13,1.2,218.4
+Mapusa,Porvorim,46,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Aldona,41,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Panaji,18,Small Truck (Tata Ace/Bolero),13,1.2,280.8
+Mapusa,Taleigao,50,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Santa Cruz,44,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,St. Andre,28,Small Truck (Tata Ace/Bolero),13,1.2,436.8
+Mapusa,Cumbarjua,57,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Maem,25,Small Truck (Tata Ace/Bolero),13,1.2,390
+Mapusa,Sanquelim,12,Small Truck (Tata Ace/Bolero),13,1.2,187.2
+Mapusa,Poriem,29,Small Truck (Tata Ace/Bolero),13,1.2,452.4
+Mapusa,Valpoi,33,Small Truck (Tata Ace/Bolero),13,1.2,514.8
+Mapusa,Priol,42,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Ponda,33,Small Truck (Tata Ace/Bolero),13,1.2,514.8
+Mapusa,Siroda,20,Small Truck (Tata Ace/Bolero),13,1.2,312
+Mapusa,Marcaim,58,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Mormugao,17,Small Truck (Tata Ace/Bolero),13,1.2,265.2
+Mapusa,Vasco Da Gama,45,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Dabolim,47,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Cortalim,49,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Nuvem,29,Small Truck (Tata Ace/Bolero),13,1.2,452.4
+Mapusa,Curtorim,44,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Fatorda,57,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Margao,34,Small Truck (Tata Ace/Bolero),13,1.2,530.4
+Mapusa,Benaulim,44,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Navelim,34,Small Truck (Tata Ace/Bolero),13,1.2,530.4
+Mapusa,Cuncolim,38,Small Truck (Tata Ace/Bolero),13,1.2,592.8
+Mapusa,Velim,27,Small Truck (Tata Ace/Bolero),13,1.2,421.2
+Mapusa,Quepem,55,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Curchorem,27,Small Truck (Tata Ace/Bolero),13,1.2,421.2
+Mapusa,Sanvordem,11,Small Truck (Tata Ace/Bolero),13,1.2,171.6
+Mapusa,Sanguem,44,Small Truck (Tata Ace/Bolero),13,1.2,99999
+Mapusa,Canacona,25,Small Truck (Tata Ace/Bolero),13,1.2,390
