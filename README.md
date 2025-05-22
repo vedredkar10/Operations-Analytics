@@ -29,7 +29,6 @@ Identify the best combination of warehouses that:
 | `Constituency Wise Demand.csv` | Monthly delivery demand per Goa constituency |
 | `Transport Calculation Table.csv` | Aggregated costs for modeling |
 | `warehouse Info Table.csv` | CapEx and OpEx data for each potential warehouse |
-| `Operations_Report_Goa.pdf` *(Add this if you upload it)* | Final project write-up |
 
 ---
 
